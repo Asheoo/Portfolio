@@ -773,6 +773,10 @@ input[type='submit']:hover {
 	.home .img{
 		width: 60%;
 	}
+
+	html{
+		scroll-padding-top: 67px;
+	}
 }
 
 
