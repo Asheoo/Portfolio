@@ -745,6 +745,43 @@ input[type='submit']:hover {
 	}
 }
 
+
+
+
+@media screen and (max-width: 576px){
+
+	 h2,h1,p{
+		transform: scale(0.9);
+	}
+
+	.intro{
+		width: 80%;
+	}
+
+	nav,nav.sticky{
+		padding: 0 1rem;
+	}
+	
+	.contact{
+		width: 80%;
+	}
+
+	#center{
+		text-align: center;
+	}
+
+	.home .img{
+		width: 60%;
+	}
+}
+
+
+
+
+
+
+
+
 ::-webkit-scrollbar {
 	width: 15px;
 }
